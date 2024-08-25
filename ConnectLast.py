@@ -1,4 +1,6 @@
-from requierment.txt import matplotlib
+#from requierment.txt import matplotlib
+import os
+os.system('pip install -r requirement.txt')
 import streamlit as st
 from BackendLast import columns,x_train,y_train,parameters_finder
 #from projectlas4 import df
