@@ -1,4 +1,4 @@
-from requierment.txt import matplotlib==3.9.2
+from requierment.txt import matplotlib
 import streamlit as st
 from BackendLast import columns,x_train,y_train,parameters_finder
 #from projectlas4 import df
