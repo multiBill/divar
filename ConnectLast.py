@@ -1,4 +1,4 @@
-import requierment
+import requierment.txt
 import streamlit as st
 from BackendLast import columns,x_train,y_train,parameters_finder
 #from projectlas4 import df
