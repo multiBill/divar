@@ -6,6 +6,7 @@ from sklearn.linear_model import LinearRegression ,Ridge,Lasso,ElasticNet
 import numpy as np
 import pandas as pd
 from xgboost import XGBRegressor
+import requierment
 
 area = st.number_input("input area" , 0.0)
 room = st.number_input("input number of room" , 0.0)
