@@ -4,7 +4,7 @@
 #py -m pip install "matplotlib==3.9.2"
 #py -m pip install "matplotlib[PDF]==3.9.2"
 #py -m pip install -e ".[PDF]" 
-!pip install matplotlib==3.9.2
+#!pip install matplotlib==3.9.2
 import streamlit as st
 from BackendLast import columns,x_train,y_train,parameters_finder
 #from projectlas4 import df
