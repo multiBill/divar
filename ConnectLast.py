@@ -1,6 +1,7 @@
 #from requierment.txt import matplotlib
-import os
-os.system('pip install -r requirement.txt')
+#import os
+#os.system('pip install -r requirement.txt')
+py -m pip install "matplotlib==3.9.2"
 import streamlit as st
 from BackendLast import columns,x_train,y_train,parameters_finder
 #from projectlas4 import df
